@@ -108,10 +108,12 @@
      <Compile Include="Assets\SabreCSG\Scripts\UI\VertexColorWindow.cs" />
      <Compile Include="Assets\SabreCSG\Scripts\UpdateUtility.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
      <Compile Include="Assets\Scripts\Entity.cs" />
      <Compile Include="Assets\Scripts\GameCamera.cs" />
      <Compile Include="Assets\Scripts\GameGUI.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
+     <Compile Include="Assets\Scripts\PainTrain.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Shell.cs" />

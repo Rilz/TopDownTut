@@ -87,6 +87,9 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>C:/Program Files/Unity536/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
+ <Reference Include="SabreCSG.Core">
+ <HintPath>C:/Users/Game/tmp/TopDownTutorial_2/Assets/SabreCSG/Scripts/SabreCSG.Core.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity536/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -95,9 +98,6 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity536/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="SabreCSG.Core">
- <HintPath>C:/Users/Game/tmp/TopDownTutorial_2/Assets/SabreCSG/Scripts/SabreCSG.Core.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
